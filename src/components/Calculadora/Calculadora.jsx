@@ -1,4 +1,5 @@
 import { useState } from "react";
+import React from "react";
 
 function Calculadora(){
     const [inputUm, setInputUm] = useState('')
